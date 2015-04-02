@@ -1,0 +1,31 @@
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\bin\Debug\Windows Tweak 7.exe
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\bin\Debug\Windows Tweak 7.pdb
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\bin\Debug\Windows Tweak 7.xml
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\obj\x86\Debug\Windows_Tweak_7.Resources.resources
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.exe
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.xml
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.pdb
+C:\Users\Czn\AppData\Local\Temporary Projects\Windows Tweak 7\obj\x86\Debug\Windows_Tweak_7.Home.resources
+E:\程序7\Windows Tweak 7\Windows Tweak 7\bin\Debug\Windows Tweak 7.exe.config
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.exe
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.xml
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.pdb
+E:\程序7\Windows Tweak 7\Windows Tweak 7\bin\Debug\Windows Tweak 7.exe.manifest
+E:\程序7\Windows Tweak 7\Windows Tweak 7\bin\Debug\Windows Tweak 7.application
+E:\程序7\Windows Tweak 7\Windows Tweak 7\bin\Debug\Windows Tweak 7.exe
+E:\程序7\Windows Tweak 7\Windows Tweak 7\bin\Debug\Windows Tweak 7.pdb
+E:\程序7\Windows Tweak 7\Windows Tweak 7\bin\Debug\Windows Tweak 7.xml
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows_Tweak_7.Home.resources
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows_Tweak_7.Resources.resources
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.TrustInfo.xml
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.exe.manifest
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows Tweak 7.application
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows_Tweak_7.cannotopen.resources
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows_Tweak_7.Loading.resources
+E:\程序7\Windows Tweak 7\Windows Tweak 7\obj\x86\Debug\Windows_Tweak_7.fUpdate.resources
